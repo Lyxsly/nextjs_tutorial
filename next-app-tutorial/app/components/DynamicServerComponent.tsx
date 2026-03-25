@@ -1,3 +1,4 @@
+// "use client";
 import { cookies } from "next/headers";
 import React from "react";
 import { Box } from "./Box";
